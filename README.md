@@ -3,7 +3,7 @@ COVID-19
 Author: Christeen T Jose
 ---
 
-[Released under GNU General Public License v3.0](https://github.com/ChristeenTJose/Forest-Wars-a-C-game/blob/master/LICENSE)
+## [Released under GNU General Public License v3.0](https://github.com/ChristeenTJose/Forest-Wars-a-C-game/blob/master/LICENSE)
 
 ---
 # "A series of 5 different data visulaisation projects on spread of novel Corona virus"
