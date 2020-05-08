@@ -61,7 +61,7 @@ def frame(deaths,recovered,Date,last):
 	plt.close()
 def Process():
 	Dataset_1=pd.read_csv(os.path.join('Dataset','time_series_covid_19_deaths.csv'))
-	Dataset_2=pd.read_csv(os.path.join('Dataset','time_series_covid_19_confirmed.csv'))
+	Dataset_2=pd.read_csv(os.path.join('Dataset','time_series_covid_19_recovered.csv'))
 	Data_1=Dataset_1.iloc[:,4:]
 	Data_2=Dataset_2.iloc[:,4:]
 	#print(Data_1.columns)
