@@ -17,6 +17,7 @@ Author: Christeen T Jose
 ### 5.  INDICATOR BOARD [[Source Code]](https://github.com/ChristeenTJose/COVID-19/tree/master/INDICATOR%20BOARD)
 ### 6.  Model COVID-19 CHN [[Source Code]](https://github.com/ChristeenTJose/COVID-19/tree/master/Model%20COVID-19%20CHN)
 ### 7.  COVID-19 Bar Chart Race [[Source Code]](https://github.com/ChristeenTJose/COVID-19/tree/master/Bar%20chart%20race)
+### 8.  MODEL COVID-19 IND V2.0 [[Source Code]](https://github.com/ChristeenTJose/COVID-19/tree/master/Model%20COVID-19%20IND%20V2.0)
 
 ## DEMONSTRATIONS: 
 [![YouTube demonstration video](https://github.com/ChristeenTJose/COVID-19/blob/master/Thumbnails/thumbnail-1.PNG)](https://www.youtube.com/watch?v=66U2DX_tGnI)
@@ -32,3 +33,5 @@ Author: Christeen T Jose
 [![YouTube demonstration video](https://github.com/ChristeenTJose/COVID-19/blob/master/Thumbnails/thumbnail-6.PNG)](https://www.youtube.com/watch?v=4narEPA9kOs)
 
 [![YouTube demonstration video](https://github.com/ChristeenTJose/COVID-19/blob/master/Thumbnails/thumbnail-7.PNG)](https://www.youtube.com/watch?v=qrtY6717Nsw)
+
+[![YouTube demonstration video](https://github.com/ChristeenTJose/COVID-19/blob/master/Thumbnails/thumbnail-8.PNG)](https://www.youtube.com/watch?v=D9MQ0bXEHOU)
